@@ -50,6 +50,8 @@ In our final analysis we will determine if all manufacturing lots and each lot i
 
 * In this case the psi mean for Lot 3 is slightly statistically different from the mean population, since the p-value is barely smaller than 0.05. We will probably need to evaluate this manufacturing lot in more detail.
 
+#### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
 ## Study Design: MechaCar vs Competition
 
 Continuing with our analysis of the MechaCar production data and to see how these prototypes perform against the competition. It could be interesting to consider an additional data analysis where factors like traffic and road conditions are taking into account, since they can affect the estimation of mpg. In our analysis we will have the highway mpg and the city mpg. We will need as well information about the car transmission: mechanic or authomatic, so we can study how the kind of transmission affects the city and highway fuel efficiency.
