@@ -62,9 +62,9 @@ To test our null hypothesis we will use the two sample t-test. In fact we need t
 
 In our analysis, we would need the following data:
 
-City mpg : It can be estimated as the average a car will get while driving on an open stretch of road without stopping or starting, typically at a higher speed.
-Highway mpg: It can be estimated as the average a car will get while driving on a road with city conditions, with stopping and starting at lower speeds.
-Car transmision: It is a categorical data,a dichotomous variable: 0 - manual transmission, 1 - authomatic transmission.
+* City mpg : It can be estimated as the average a car will get while driving on an open stretch of road without stopping or starting, typically at a higher speed.
+* Highway mpg: It can be estimated as the average a car will get while driving on a road with city conditions, with stopping and starting at lower speeds.
+* Car transmision: It is a categorical data,a dichotomous variable: 0 - manual transmission, 1 - authomatic transmission.
 
 
 
